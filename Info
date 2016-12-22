@@ -1,0 +1,5 @@
+Zeeslag aanpakken:
+
+Je gebruikt een random getal van 1 tot en met 100. Elk getal is een vakje van 10 breed naar 10 hoogte.
+Zorg er voor dat hij kan alleen plaatsten als er 5 plaatsen vrij zijn. Als plaatsvrij < 5: Dan werkt het niet en doet hij de rij opnieuw.
+Ingeneste lus gebruiken. 
